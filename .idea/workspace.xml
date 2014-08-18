@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a7668ad7-2ece-4eb3-9540-52f825aed0da" name="Default" comment="" />
+    <ignored path="www.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="www" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Search-form.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Search-form.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="28" selection-start="82" selection-end="82" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="357">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="query.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/query.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="157" column="62" selection-start="4628" selection-end="4628" vertical-scroll-proportion="0.46977547" vertical-offset="2397" max-vertical-offset="5389">
+              <folding>
+                <marker date="1408368381484" expanded="true" signature="1023:1197" placeholder="SELECT Bad,B..bad..." />
+                <marker date="1408368381484" expanded="true" signature="1696:1834" placeholder="SELECT Big,B..big..." />
+                <marker date="1408368381484" expanded="true" signature="2274:2490" placeholder="SELECT Stron..strong..." />
+                <marker date="1408368381484" expanded="true" signature="3019:3207" placeholder="SELECT Happy..happy..." />
+                <marker date="1408368381484" expanded="true" signature="3764:3956" placeholder="SELECT Likes..like_s..." />
+                <marker date="1408368381484" expanded="true" signature="4482:4670" placeholder="SELECT Weak,..weak..." />
+                <marker date="1408368381484" expanded="true" signature="5227:5428" placeholder="SELECT Nice,..nice..." />
+                <marker date="1408368381484" expanded="true" signature="5986:6184" placeholder="SELECT Compa..company..." />
+                <marker date="1408368381484" expanded="true" signature="6652:6853" placeholder="SELECT Schoo..school..." />
+                <marker date="1408368381484" expanded="true" signature="7351:7498" placeholder="SELECT Teach..teach..." />
+                <marker date="1408368381484" expanded="true" signature="7908:8095" placeholder="SELECT House..house..." />
+                <marker date="1408368381484" expanded="true" signature="8608:8823" placeholder="SELECT Leade..leader..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="addweak.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/addweak.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="11.730769" vertical-offset="305" max-vertical-offset="2363">
+              <folding>
+                <element signature="n#style#0;n#ul#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#0;n#ul#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#1;n#ul#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#1;n#tr#1;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#2;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#1;n#tr#2;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#3;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#1;n#tr#3;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#4;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#1;n#tr#4;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#5;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#1;n#tr#5;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#6;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#1;n#tr#6;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#7;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#1;n#tr#7;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#8;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#1;n#tr#8;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#9;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#1;n#tr#9;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#10;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#1;n#tr#10;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#11;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#1;n#tr#11;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#1;n#tr#12;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#td#1;n#tr#12;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#1;n#td#1;n#tr#12;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="addweakaction.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/addweakaction.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="13.730769" vertical-offset="357" max-vertical-offset="1054">
+              <folding>
+                <marker date="1408180325421" expanded="true" signature="1002:1350" placeholder="INSERT INTO ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="delweak.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/delweak.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="6.0" vertical-offset="156" max-vertical-offset="748">
+              <folding>
+                <marker date="1407143241608" expanded="true" signature="587:625" placeholder="DELETE FROM ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="editweak.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/editweak.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="23.538462" vertical-offset="612" max-vertical-offset="2873">
+              <folding>
+                <marker date="1408035083823" expanded="true" signature="688:728" placeholder="SELECT * FRO..$tbl_name WHERE..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="editweakaction.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/editweakaction.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="18.923077" vertical-offset="492" max-vertical-offset="1071">
+              <folding>
+                <marker date="1408035083777" expanded="true" signature="1026:1375" placeholder="UPDATE $tbl_..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="manageweak.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manageweak.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="67.46154" vertical-offset="1754" max-vertical-offset="2346">
+              <folding>
+                <marker date="1408035083839" expanded="true" signature="748:909" placeholder="SELECT Weak,..." />
+                <marker date="1408035083839" expanded="false" signature="2815:2826" placeholder="..." />
+                <marker date="1408035083839" expanded="false" signature="2914:2925" placeholder="..." />
+                <marker date="1408035083839" expanded="false" signature="3019:3030" placeholder="..." />
+                <marker date="1408035083839" expanded="false" signature="3124:3135" placeholder="..." />
+                <marker date="1408035083839" expanded="false" signature="3229:3240" placeholder="..." />
+                <marker date="1408035083839" expanded="false" signature="3334:3345" placeholder="..." />
+                <marker date="1408035083839" expanded="false" signature="3439:3450" placeholder="..." />
+                <marker date="1408035083839" expanded="false" signature="3544:3555" placeholder="..." />
+                <marker date="1408035083839" expanded="false" signature="3649:3660" placeholder="..." />
+                <marker date="1408035083839" expanded="false" signature="3754:3765" placeholder="..." />
+                <marker date="1408035083839" expanded="false" signature="3859:3870" placeholder="..." />
+                <marker date="1408035083839" expanded="false" signature="3965:3976" placeholder="..." />
+                <marker date="1408035083839" expanded="false" signature="4483:4494" placeholder="..." />
+                <marker date="1408035083839" expanded="false" signature="4617:4628" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/managehappy.php" />
+        <option value="$PROJECT_DIR$/edithappyaction.php" />
+        <option value="$PROJECT_DIR$/edithappy.php" />
+        <option value="$PROJECT_DIR$/editschoolction.php" />
+        <option value="$PROJECT_DIR$/addschool.php" />
+        <option value="$PROJECT_DIR$/addschoolaction.php" />
+        <option value="$PROJECT_DIR$/delschool.php" />
+        <option value="$PROJECT_DIR$/addcompanyaction.php" />
+        <option value="$PROJECT_DIR$/editschoolaction.php" />
+        <option value="$PROJECT_DIR$/manageschool.php" />
+        <option value="$PROJECT_DIR$/addhouse.php" />
+        <option value="$PROJECT_DIR$/edithouse.php" />
+        <option value="$PROJECT_DIR$/edithouseaction.php" />
+        <option value="$PROJECT_DIR$/managehouse.php" />
+        <option value="$PROJECT_DIR$/addleader.php" />
+        <option value="$PROJECT_DIR$/addleaderaction.php" />
+        <option value="$PROJECT_DIR$/addhouseaction.php" />
+        <option value="$PROJECT_DIR$/editleader.php" />
+        <option value="$PROJECT_DIR$/editleaderaction.php" />
+        <option value="$PROJECT_DIR$/manageleader.php" />
+        <option value="$PROJECT_DIR$/addbig.php" />
+        <option value="$PROJECT_DIR$/addbigaction.php" />
+        <option value="$PROJECT_DIR$/managebig.php" />
+        <option value="$PROJECT_DIR$/delbig.php" />
+        <option value="$PROJECT_DIR$/editbig.php" />
+        <option value="$PROJECT_DIR$/editbigaction.php" />
+        <option value="$PROJECT_DIR$/addbadaction.php" />
+        <option value="$PROJECT_DIR$/home.php" />
+        <option value="$PROJECT_DIR$/addteach.php" />
+        <option value="$PROJECT_DIR$/addteachaction.php" />
+        <option value="$PROJECT_DIR$/editteach.php" />
+        <option value="$PROJECT_DIR$/manageteach.php" />
+        <option value="$PROJECT_DIR$/editteachction.php" />
+        <option value="$PROJECT_DIR$/addstrong.php" />
+        <option value="$PROJECT_DIR$/delstrong.php" />
+        <option value="$PROJECT_DIR$/editschool.php" />
+        <option value="$PROJECT_DIR$/editstrong.php" />
+        <option value="$PROJECT_DIR$/editstrongaction.php" />
+        <option value="$PROJECT_DIR$/addstrongaction.php" />
+        <option value="$PROJECT_DIR$/managestrong.php" />
+        <option value="$PROJECT_DIR$/addhappyaction.php" />
+        <option value="$PROJECT_DIR$/addniceaction.php" />
+        <option value="$PROJECT_DIR$/addnice.php" />
+        <option value="$PROJECT_DIR$/editnice.php" />
+        <option value="$PROJECT_DIR$/editniceaction.php" />
+        <option value="$PROJECT_DIR$/managenice.php" />
+        <option value="$PROJECT_DIR$/addweakaction.php" />
+        <option value="$PROJECT_DIR$/managelike.php" />
+        <option value="$PROJECT_DIR$/addlikeaction.php" />
+        <option value="$PROJECT_DIR$/Search-form.html" />
+        <option value="$PROJECT_DIR$/query.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="Unnamed">
+    <include_path>
+      <path value="C:\wamp\wwwpractical" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-4" />
+    <option name="y" value="-4" />
+    <option name="width" value="1374" />
+    <option name="height" value="746" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="German Synonyms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.home.php">
+    <configuration default="false" name="home.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/home.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <RunnerSettings RunnerId="PhpScriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpScriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="false" name="home.php" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true" uri="http://localhost:63342/www/home.php">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="search.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/search.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <RunnerSettings RunnerId="PhpScriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpScriptDebugRunner" />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.home.php" />
+      <item index="1" class="java.lang.String" itemvalue="PHP Script.search.php" />
+      <item index="2" class="java.lang.String" itemvalue="PHP Script.home.php" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.home.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7668ad7-2ece-4eb3-9540-52f825aed0da" name="Default" comment="" />
+      <created>1400943062376</created>
+      <updated>1400943062376</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4" y="-4" width="1374" height="746" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32902032" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32902032" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14787701" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.07275542" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.038817007" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294509" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Search-form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="28" selection-start="82" selection-end="82" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="357">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manageweak.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="67.46154" vertical-offset="1754" max-vertical-offset="2346">
+          <folding>
+            <marker date="1408035083839" expanded="true" signature="748:909" placeholder="SELECT Weak,..." />
+            <marker date="1408035083839" expanded="false" signature="2815:2826" placeholder="..." />
+            <marker date="1408035083839" expanded="false" signature="2914:2925" placeholder="..." />
+            <marker date="1408035083839" expanded="false" signature="3019:3030" placeholder="..." />
+            <marker date="1408035083839" expanded="false" signature="3124:3135" placeholder="..." />
+            <marker date="1408035083839" expanded="false" signature="3229:3240" placeholder="..." />
+            <marker date="1408035083839" expanded="false" signature="3334:3345" placeholder="..." />
+            <marker date="1408035083839" expanded="false" signature="3439:3450" placeholder="..." />
+            <marker date="1408035083839" expanded="false" signature="3544:3555" placeholder="..." />
+            <marker date="1408035083839" expanded="false" signature="3649:3660" placeholder="..." />
+            <marker date="1408035083839" expanded="false" signature="3754:3765" placeholder="..." />
+            <marker date="1408035083839" expanded="false" signature="3859:3870" placeholder="..." />
+            <marker date="1408035083839" expanded="false" signature="3965:3976" placeholder="..." />
+            <marker date="1408035083839" expanded="false" signature="4483:4494" placeholder="..." />
+            <marker date="1408035083839" expanded="false" signature="4617:4628" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/editweakaction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="18.923077" vertical-offset="492" max-vertical-offset="1071">
+          <folding>
+            <marker date="1408035083777" expanded="true" signature="1026:1375" placeholder="UPDATE $tbl_..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/editweak.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="23.538462" vertical-offset="612" max-vertical-offset="2873">
+          <folding>
+            <marker date="1408035083823" expanded="true" signature="688:728" placeholder="SELECT * FRO..$tbl_name WHERE..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/delweak.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="6.0" vertical-offset="156" max-vertical-offset="748">
+          <folding>
+            <marker date="1407143241608" expanded="true" signature="587:625" placeholder="DELETE FROM ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addweakaction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="13.730769" vertical-offset="357" max-vertical-offset="1054">
+          <folding>
+            <marker date="1408180325421" expanded="true" signature="1002:1350" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addweak.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="11.730769" vertical-offset="305" max-vertical-offset="2363">
+          <folding>
+            <element signature="n#style#0;n#ul#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ul#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#tr#1;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#2;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#tr#2;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#3;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#tr#3;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#4;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#tr#4;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#5;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#tr#5;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#6;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#tr#6;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#7;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#tr#7;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#8;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#tr#8;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#9;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#tr#9;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#10;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#tr#10;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#11;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#tr#11;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#tr#12;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#td#1;n#tr#12;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#1;n#td#1;n#tr#12;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/query.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="157" column="62" selection-start="4628" selection-end="4628" vertical-scroll-proportion="0.46977547" vertical-offset="2397" max-vertical-offset="5389">
+          <folding>
+            <marker date="1408368381484" expanded="true" signature="1023:1197" placeholder="SELECT Bad,B..bad..." />
+            <marker date="1408368381484" expanded="true" signature="1696:1834" placeholder="SELECT Big,B..big..." />
+            <marker date="1408368381484" expanded="true" signature="2274:2490" placeholder="SELECT Stron..strong..." />
+            <marker date="1408368381484" expanded="true" signature="3019:3207" placeholder="SELECT Happy..happy..." />
+            <marker date="1408368381484" expanded="true" signature="3764:3956" placeholder="SELECT Likes..like_s..." />
+            <marker date="1408368381484" expanded="true" signature="4482:4670" placeholder="SELECT Weak,..weak..." />
+            <marker date="1408368381484" expanded="true" signature="5227:5428" placeholder="SELECT Nice,..nice..." />
+            <marker date="1408368381484" expanded="true" signature="5986:6184" placeholder="SELECT Compa..company..." />
+            <marker date="1408368381484" expanded="true" signature="6652:6853" placeholder="SELECT Schoo..school..." />
+            <marker date="1408368381484" expanded="true" signature="7351:7498" placeholder="SELECT Teach..teach..." />
+            <marker date="1408368381484" expanded="true" signature="7908:8095" placeholder="SELECT House..house..." />
+            <marker date="1408368381484" expanded="true" signature="8608:8823" placeholder="SELECT Leade..leader..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
